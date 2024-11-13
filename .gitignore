@@ -27,3 +27,4 @@ env
 .eggs
 .tox/
 .env
+.venv/
